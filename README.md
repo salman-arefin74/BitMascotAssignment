@@ -1,6 +1,9 @@
 BitMascot Assignment
 
+
+
 Tools and technologies used:
+
 
 IDE: Intellij Idea Ultimate Edition 
 
